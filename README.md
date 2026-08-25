@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaid1dev&label=Profile%20views&color=0e75b6&style=flat" alt="obaid1dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obaid1dev" alt="obaid1dev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/obaiddev" target="blank"><img src="https://img.shields.io/twitter/follow/obaiddev?logo=twitter&style=for-the-badge" alt="obaiddev" /></a> </p>
-
 - 🔭 I’m currently working on [Foocus and CareCircleAi](https://carecircleai.vercel.app/)
 
 - 🌱 I’m currently learning **TypeScript**
