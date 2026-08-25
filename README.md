@@ -289,50 +289,6 @@ A modern mobile application built with React Native + Expo with authentication, 
 
 ---
 
-# 🤖 AI Building Arsenal
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logoColor=white" alt="OpenCode" />
-
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-
-<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-`⚡ AI-assisted development` · `🤖 Coding Agents` · `🧠 LLMs` · `🚀 Rapid Prototyping`
-
-</div>
-
-<br>
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                 🤖 AI WORKFLOW                       │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│   💡 Idea                                            │
-│      ↓                                               │
-│   🧠 AI Planning                                     │
-│      ↓                                               │
-│   💻 AI-Assisted Coding                              │
-│      ↓                                               │
-│   🧪 Test & Debug                                    │
-│      ↓                                               │
-│   🚀 Ship                                            │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
----
-
 # 🏗️ `how_i_build`
 
 ```text
