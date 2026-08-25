@@ -11,20 +11,26 @@
 <br><br>
 
 <a href="https://obaiddev.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00F7FF?style=for-the-badge&labelColor=0D1117&color=00F7FF" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-00F7FF?style=for-the-badge&labelColor=0D1117&color=00F7FF" alt="Portfolio" />
 </a>
 
 <a href="https://github.com/obaid1dev?tab=repositories">
-<img src="https://img.shields.io/badge/🚀%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/🚀%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
 </a>
 
 <a href="mailto:obaidd.dev@gmail.com">
-<img src="https://img.shields.io/badge/📩%20Contact-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/📩%20Contact-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,nodejs,supabase,postgres,expo,tailwind,git,github" />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42" alt="React" />
+<img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="42" height="42" alt="Next.js" />
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="42" height="42" alt="Node.js" />
+<img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" />
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="42" height="42" alt="Supabase" />
+<img src="https://cdn.simpleicons.org/expo/ffffff" width="42" height="42" alt="Expo" />
 
 </div>
 
@@ -45,7 +51,7 @@ const obaid = {
         "Developer Tools"
     ],
 
-    interests: [
+    interestedIn: [
         "Artificial Intelligence",
         "Startups",
         "Automation",
@@ -58,22 +64,23 @@ const obaid = {
         "AI Agents"
     ],
 
-    mindset: "Build first. Figure it out along the way."
+    mindset:
+        "Don't just learn technology. Build something with it."
 };
 ```
 
 ---
 
-## ⚡ `what_i_do`
+# ⚡ `what_i_do`
 
 <table>
 <tr>
 
 <td width="25%" align="center">
 
-<img src="https://skillicons.dev/icons?i=openai" width="55"/>
+<h2>🤖</h2>
 
-### 🤖 AI
+### AI
 
 LLM Applications
 AI Assistants
@@ -84,9 +91,9 @@ Automation
 
 <td width="25%" align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
+<h2>🚀</h2>
 
-### 🚀 SaaS
+### SaaS
 
 Product Development
 Authentication
@@ -97,23 +104,22 @@ Production Systems
 
 <td width="25%" align="center">
 
-<img src="https://skillicons.dev/icons?i=reactnative" width="55"/>
+<h2>📱</h2>
 
-### 📱 Mobile
+### Mobile
 
-<p align="left">
-<a href="https://reactnative.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React Native" />
-</a>
+React Native
+Expo
+EAS
+Cross-platform Apps
 
-<a href="https://expo.dev/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="50" height="50" alt="Expo" />
-</a>
-</p>
+</td>
 
+<td width="25%" align="center">
 
+<h2>🌐</h2>
 
-### 🌐 Web
+### Web
 
 React
 Next.js
@@ -137,22 +143,14 @@ Building technology to help families stay connected with elderly loved ones.
 
 ### ✨ Features
 
-`🤖 AI Companion`
+`🤖 AI Companion` · `❤️ Daily Check-ins` · `💊 Medication Tracking`
 
-`❤️ Daily Check-ins`
-
-`💊 Medication Tracking`
-
-`📅 Appointments`
-
-`👨‍👩‍👧 Family Dashboard`
-
-`🔔 Smart Alerts`
+`📅 Appointments` · `👨‍👩‍👧 Family Dashboard` · `🔔 Smart Alerts`
 
 <br>
 
 <a href="https://carecircleai.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Open%20CareCircleAi-00F7FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🌐%20Open%20CareCircleAi-00F7FF?style=for-the-badge&labelColor=0D1117" alt="CareCircleAi" />
 </a>
 
 ---
@@ -161,11 +159,11 @@ Building technology to help families stay connected with elderly loved ones.
 
 > **AI-powered mobile application**
 
-A modern mobile application built with React Native + Expo.
+A modern mobile application built with React Native + Expo with authentication, AI functionality and subscription infrastructure.
 
 ### ⚙️ Stack
 
-`React Native` · `Expo` · `Supabase` · `RevenueCat` · `AI`
+`React Native` · `Expo` · `EAS` · `Supabase` · `RevenueCat`
 
 ### 🚀 Built Around
 
@@ -178,40 +176,114 @@ A modern mobile application built with React Native + Expo.
 ### 💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css" />
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="50" height="50" alt="TypeScript" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" height="50" alt="JavaScript" />
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="50" height="50" alt="Python" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="50" height="50" alt="HTML5" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="50" height="50" alt="CSS3" />
+</a>
+
 </p>
 
 ### 🎨 Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="50" height="50" alt="React" />
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="50" height="50" alt="Next.js" />
+</a>
+
+<a href="https://vite.dev/" target="_blank">
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="50" height="50" alt="Vite" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" alt="Tailwind CSS" />
+</a>
+
 </p>
 
 ### 📱 Mobile
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=reactnative,expo" />
+
+<a href="https://reactnative.dev/" target="_blank">
+<img src="https://reactnative.dev/img/header_logo.svg" width="50" height="50" alt="React Native" />
+</a>
+
+<a href="https://expo.dev/" target="_blank">
+<img src="https://cdn.simpleicons.org/expo/ffffff" width="50" height="50" alt="Expo" />
+</a>
+
 </p>
+
+`React Native` · `Expo` · `EAS` · `Android` · `iOS`
 
 ### ⚙️ Backend & Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres" />
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" height="50" alt="Node.js" />
+</a>
+
+<a href="https://supabase.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="50" height="50" alt="Supabase" />
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" height="50" alt="PostgreSQL" />
+</a>
+
 </p>
 
 ### 🤖 AI & Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=openai,git,github,vercel" />
+
+<a href="https://openai.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/openai/ffffff" width="50" height="50" alt="OpenAI" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/git/F05032" width="50" height="50" alt="Git" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="50" height="50" alt="GitHub" />
+</a>
+
+<a href="https://vercel.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/vercel/ffffff" width="50" height="50" alt="Vercel" />
+</a>
+
 </p>
 
 ### 💳 SaaS & Payments
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Paddle-000000?style=for-the-badge&logo=paddle&logoColor=white" />
+<img src="https://img.shields.io/badge/Paddle-000000?style=for-the-badge&logo=paddle&logoColor=white" alt="Paddle" />
 
-<img src="https://img.shields.io/badge/RevenueCat-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RevenueCat-000000?style=for-the-badge&logoColor=white" alt="RevenueCat" />
 
 </p>
 
@@ -220,37 +292,37 @@ A modern mobile application built with React Native + Expo.
 # 🏗️ `how_i_build`
 
 ```text
-              ┌──────────────────────────┐
-              │       💡 IDEA            │
-              └────────────┬─────────────┘
-                           ↓
-              ┌──────────────────────────┐
-              │       🎨 DESIGN          │
-              └────────────┬─────────────┘
-                           ↓
-              ┌──────────────────────────┐
-              │       💻 BUILD           │
-              └────────────┬─────────────┘
-                           ↓
-              ┌──────────────────────────┐
-              │       🤖 AI              │
-              └────────────┬─────────────┘
-                           ↓
-              ┌──────────────────────────┐
-              │       🔐 SECURE          │
-              └────────────┬─────────────┘
-                           ↓
-              ┌──────────────────────────┐
-              │       💳 MONETIZE        │
-              └────────────┬─────────────┘
-                           ↓
-              ┌──────────────────────────┐
-              │       🚀 SHIP            │
-              └────────────┬─────────────┘
-                           ↓
-              ┌──────────────────────────┐
-              │       📈 ITERATE         │
-              └──────────────────────────┘
+                 ┌────────────────────────┐
+                 │       💡 IDEA          │
+                 └───────────┬────────────┘
+                             ↓
+                 ┌────────────────────────┐
+                 │      🎨 DESIGN         │
+                 └───────────┬────────────┘
+                             ↓
+                 ┌────────────────────────┐
+                 │       💻 BUILD         │
+                 └───────────┬────────────┘
+                             ↓
+                 ┌────────────────────────┐
+                 │        🤖 AI           │
+                 └───────────┬────────────┘
+                             ↓
+                 ┌────────────────────────┐
+                 │       🔐 SECURE        │
+                 └───────────┬────────────┘
+                             ↓
+                 ┌────────────────────────┐
+                 │      💳 MONETIZE       │
+                 └───────────┬────────────┘
+                             ↓
+                 ┌────────────────────────┐
+                 │       🚀 SHIP          │
+                 └───────────┬────────────┘
+                             ↓
+                 ┌────────────────────────┐
+                 │      📈 ITERATE        │
+                 └────────────────────────┘
 ```
 
 ---
@@ -259,15 +331,17 @@ A modern mobile application built with React Native + Expo.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🤖%20AI%20Agents-Experimenting-00F7FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🤖%20AI%20Agents-EXPERIMENTING-00F7FF?style=for-the-badge&labelColor=0D1117" />
 
-<img src="https://img.shields.io/badge/🧠%20LLMs-Building-7B61FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🧠%20LLMs-BUILDING-7B61FF?style=for-the-badge&labelColor=0D1117" />
 
-<img src="https://img.shields.io/badge/⚡%20Automation-Exploring-FF6B35?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/⚡%20Automation-EXPLORING-FF6B35?style=for-the-badge&labelColor=0D1117" />
 
-<img src="https://img.shields.io/badge/📱%20Mobile-Shipping-00C853?style=for-the-badge&labelColor=0D1117" />
+<br><br>
 
-<img src="https://img.shields.io/badge/🚀%20SaaS-Building-FFD600?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/📱%20Mobile-SHIPPING-00C853?style=for-the-badge&labelColor=0D1117" />
+
+<img src="https://img.shields.io/badge/🚀%20SaaS-BUILDING-FFD600?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -284,6 +358,10 @@ $ location
 
 Pakistan 🇵🇰
 
+$ role
+
+Full-Stack Developer + AI Builder
+
 $ mission
 
 Build useful software.
@@ -299,6 +377,10 @@ $ status
 $ next_move
 
 Ship something people actually use.
+
+$ philosophy
+
+Build → Ship → Learn → Repeat
 ```
 
 ---
@@ -308,23 +390,23 @@ Ship something people actually use.
 <div align="center">
 
 <a href="https://github.com/obaid1dev">
-<img src="https://img.shields.io/badge/GitHub-obaid1dev-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-obaid1dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://twitter.com/obaiddev">
-<img src="https://img.shields.io/badge/X-@obaiddev-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-@obaiddev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 
 <a href="https://instagram.com/obaidd.dev">
-<img src="https://img.shields.io/badge/Instagram-@obaidd.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-@obaidd.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 <a href="https://discord.gg/obaidd.dev">
-<img src="https://img.shields.io/badge/Discord-obaidd.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-obaidd.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
 <a href="mailto:obaidd.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-obaidd.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-obaidd.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -333,11 +415,13 @@ Ship something people actually use.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Build+%E2%86%92+Ship+%E2%86%92+Learn+%E2%86%92+Repeat;Turning+ideas+into+products+%F0%9F%9A%80;Always+building+something+%E2%9A%A1" alt="Developer Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Build+%E2%86%92+Ship+%E2%86%92+Learn+%E2%86%92+Repeat;Turning+ideas+into+products+%F0%9F%9A%80;Always+building+something+%E2%9A%A1;See+you+in+the+next+commit+%F0%9F%91%8B" alt="Developer Animation" />
 
 <br><br>
 
 ### ⚡ `Build. Ship. Learn. Repeat.`
+
+<br>
 
 <sub>Thanks for stopping by 👋</sub>
 
