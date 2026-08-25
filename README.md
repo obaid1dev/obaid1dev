@@ -6,19 +6,25 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products+%F0%9F%A4%96;Turning+ideas+into+real+SaaS+%F0%9F%9A%80;Shipping+web+%26+mobile+apps+%F0%9F%93%B1;Always+learning.+Always+building.+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Turning+ideas+into+real+SaaS+%F0%9F%9A%80;Shipping+web+%26+mobile+apps+%F0%9F%93%B1;Learning+something+new+every+day+%F0%9F%A7%A0;Ideas+%E2%86%92+Code+%E2%86%92+Product+%E2%86%92+Users+%E2%9A%A1" alt="Typing Animation" />
 
 <br><br>
 
-<a href="https://github.com/obaid1dev">
-<img src="https://img.shields.io/badge/GitHub-obaid1dev-ffffff?style=for-the-badge&logo=github&logoColor=black" />
-</a>
 <a href="https://obaiddev.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-00F7FF?style=for-the-badge&labelColor=0D1117&color=00F7FF" />
 </a>
+
+<a href="https://github.com/obaid1dev?tab=repositories">
+<img src="https://img.shields.io/badge/🚀%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="mailto:obaidd.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/📩%20Contact-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,nodejs,supabase,postgres,expo,tailwind,git,github" />
 
 </div>
 
@@ -39,11 +45,11 @@ const obaid = {
         "Developer Tools"
     ],
 
-    obsessedWith: [
+    interests: [
         "Artificial Intelligence",
-        "Product Development",
         "Startups",
-        "Automation"
+        "Automation",
+        "Product Development"
     ],
 
     currentlyLearning: [
@@ -52,68 +58,69 @@ const obaid = {
         "AI Agents"
     ],
 
-    philosophy:
-        "Don't just learn technology. Build something with it."
+    mindset: "Build first. Figure it out along the way."
 };
 ```
 
 ---
 
-## ⚡ What I Do
+## ⚡ `what_i_do`
 
 <table>
 <tr>
+
 <td width="25%" align="center">
 
-### 🤖
+<img src="https://skillicons.dev/icons?i=openai" width="55"/>
 
-### AI
+### 🤖 AI
 
-LLM-powered applications
-AI assistants
-AI agents
+LLM Applications
+AI Assistants
+AI Agents
 Automation
 
 </td>
 
 <td width="25%" align="center">
 
-### 🚀
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
 
-### SaaS
+### 🚀 SaaS
 
-Product development
+Product Development
 Authentication
 Subscriptions
-Production systems
+Production Systems
 
 </td>
 
 <td width="25%" align="center">
 
-### 📱
+<img src="https://skillicons.dev/icons?i=reactnative" width="55"/>
 
-### Mobile
+### 📱 Mobile
 
 React Native
 Expo
-Cross-platform apps
+Cross-platform Apps
 Mobile UX
 
 </td>
 
 <td width="25%" align="center">
 
-### 🌐
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
 
-### Web
+### 🌐 Web
 
 React
 Next.js
 TypeScript
-Modern web apps
+Modern Web Apps
 
 </td>
+
 </tr>
 </table>
 
@@ -121,175 +128,202 @@ Modern web apps
 
 # 🔥 Currently Building
 
-### 🩺 CareCircleAi
+## 🩺 CareCircleAi
 
 > **AI-powered caregiver & elderly companion platform**
 
-Helping families stay connected with elderly loved ones through technology.
+Building technology to help families stay connected with elderly loved ones.
 
-**Features**
+### ✨ Features
 
-`🤖 AI Companion` · `❤️ Daily Check-ins` · `💊 Medication Tracking` · `📅 Appointments` · `👨‍👩‍👧 Family Dashboard` · `🔔 Smart Alerts`
+`🤖 AI Companion`
+
+`❤️ Daily Check-ins`
+
+`💊 Medication Tracking`
+
+`📅 Appointments`
+
+`👨‍👩‍👧 Family Dashboard`
+
+`🔔 Smart Alerts`
 
 <br>
 
-🌐 **[carecircleai.vercel.app](https://carecircleai.vercel.app/)**
+<a href="https://carecircleai.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Open%20CareCircleAi-00F7FF?style=for-the-badge&labelColor=0D1117" />
+</a>
 
 ---
 
-### 📱 Foocus
+## 📱 Foocus
 
 > **AI-powered mobile application**
 
-A modern mobile application built with React Native + Expo with authentication, AI functionality and subscription infrastructure.
+A modern mobile application built with React Native + Expo.
 
-**Stack**
+### ⚙️ Stack
 
-`React Native` · `Expo` · `Supabase` · `RevenueCat`
+`React Native` · `Expo` · `Supabase` · `RevenueCat` · `AI`
+
+### 🚀 Built Around
+
+`Authentication` · `AI` · `Subscriptions` · `Mobile UX`
 
 ---
 
-# 🧠 My Tech Universe
+# 🧠 Tech Universe
 
-### Languages
+### 💻 Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=ts,js,python,html,css" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 </p>
 
-### Mobile
+### 📱 Mobile
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=reactnative,expo" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres" />
 </p>
 
-### AI / Development
+### 🤖 AI & Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=openai,git,github,vercel" />
 </p>
 
-### Payments & SaaS
+### 💳 SaaS & Payments
 
-<p>
+<p align="left">
+
 <img src="https://img.shields.io/badge/Paddle-000000?style=for-the-badge&logo=paddle&logoColor=white" />
-<img src="https://img.shields.io/badge/RevenueCat-000000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/RevenueCat-000000?style=for-the-badge&logoColor=white" />
+
 </p>
 
 ---
 
-# 🏗️ How I Build
+# 🏗️ `how_i_build`
 
 ```text
-                    ┌─────────────────┐
-                    │     💡 IDEA     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   🎨 DESIGN     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   💻 BUILD      │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   🤖 AI         │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   🔐 SECURE     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   💳 MONETIZE   │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   🚀 SHIP       │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   📈 ITERATE    │
-                    └─────────────────┘
+              ┌──────────────────────────┐
+              │       💡 IDEA            │
+              └────────────┬─────────────┘
+                           ↓
+              ┌──────────────────────────┐
+              │       🎨 DESIGN          │
+              └────────────┬─────────────┘
+                           ↓
+              ┌──────────────────────────┐
+              │       💻 BUILD           │
+              └────────────┬─────────────┘
+                           ↓
+              ┌──────────────────────────┐
+              │       🤖 AI              │
+              └────────────┬─────────────┘
+                           ↓
+              ┌──────────────────────────┐
+              │       🔐 SECURE          │
+              └────────────┬─────────────┘
+                           ↓
+              ┌──────────────────────────┐
+              │       💳 MONETIZE        │
+              └────────────┬─────────────┘
+                           ↓
+              ┌──────────────────────────┐
+              │       🚀 SHIP            │
+              └────────────┬─────────────┘
+                           ↓
+              ┌──────────────────────────┐
+              │       📈 ITERATE         │
+              └──────────────────────────┘
 ```
 
 ---
 
-# 📊 GitHub Stats
+# 🧪 `currently_experimenting_with`
 
 <div align="center">
 
-<a href="https://github.com/obaid1dev">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=obaid1dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Obaid's GitHub Stats" />
-</a>
+<img src="https://img.shields.io/badge/🤖%20AI%20Agents-Experimenting-00F7FF?style=for-the-badge&labelColor=0D1117" />
 
-<a href="https://github.com/obaid1dev">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaid1dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Obaid's Top Languages" />
-</a>
+<img src="https://img.shields.io/badge/🧠%20LLMs-Building-7B61FF?style=for-the-badge&labelColor=0D1117" />
 
-</div>
+<img src="https://img.shields.io/badge/⚡%20Automation-Exploring-FF6B35?style=for-the-badge&labelColor=0D1117" />
 
-<br>
+<img src="https://img.shields.io/badge/📱%20Mobile-Shipping-00C853?style=for-the-badge&labelColor=0D1117" />
 
-<div align="center">
-
-<a href="https://github.com/obaid1dev?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api?username=obaid1dev&show_icons=true&hide_border=true&theme=tokyonight&hide=issues&include_all_commits=true" alt="Obaid's GitHub Activity" />
-</a>
-
-</div>
-
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/obaid1dev/obaid1dev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://img.shields.io/badge/🚀%20SaaS-Building-FFD600?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
 ---
 
-# 🌐 Connect
+# 💭 Developer Terminal
+
+```bash
+$ whoami
+
+obaid
+
+$ location
+
+Pakistan 🇵🇰
+
+$ mission
+
+Build useful software.
+
+$ current_mode
+
+████████████████████░ 95%
+
+$ status
+
+🟢 BUILDING
+
+$ next_move
+
+Ship something people actually use.
+```
+
+---
+
+# 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/obaid1dev">
-<img src="https://img.shields.io/badge/GitHub-obaid1dev-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-obaid1dev-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/obaiddev">
-<img src="https://img.shields.io/badge/X-@obaiddev-000000?style=for-the-badge&logo=x" />
+<img src="https://img.shields.io/badge/X-@obaiddev-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/obaidd.dev">
 <img src="https://img.shields.io/badge/Instagram-@obaidd.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+<a href="https://discord.gg/obaidd.dev">
+<img src="https://img.shields.io/badge/Discord-obaidd.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 <a href="mailto:obaidd.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-obaidd.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-obaidd.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -298,18 +332,12 @@ A modern mobile application built with React Native + Expo with authentication, 
 
 <div align="center">
 
-### `> Build.`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Build+%E2%86%92+Ship+%E2%86%92+Learn+%E2%86%92+Repeat;Turning+ideas+into+products+%F0%9F%9A%80;Always+building+something+%E2%9A%A1" alt="Developer Animation" />
 
-### `> Ship.`
+<br><br>
 
-### `> Break.`
+### ⚡ `Build. Ship. Learn. Repeat.`
 
-### `> Learn.`
-
-### `> Repeat.`
-
-<br>
-
-**⚡ Always building something.**
+<sub>Thanks for stopping by 👋</sub>
 
 </div>
