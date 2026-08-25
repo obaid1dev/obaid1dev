@@ -149,14 +149,6 @@ A modern mobile application built with React Native + Expo with authentication, 
 
 ---
 
-### 🤖 Jarvis AI
-
-> **An AI-powered browser assistant**
-
-A browser extension built around the idea of making the web more intelligent through an AI assistant.
-
----
-
 # 🧠 My Tech Universe
 
 ### Languages
@@ -243,13 +235,13 @@ A browser extension built around the idea of making the web more intelligent thr
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=obaid1dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=obaid1dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Obaid's GitHub Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaid1dev&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=obaid1dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Obaid's Top Languages" />
 
 </div>
 
@@ -257,7 +249,7 @@ A browser extension built around the idea of making the web more intelligent thr
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=obaid1dev&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=obaid1dev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true" height="180" alt="Obaid's GitHub Activity" />
 
 </div>
 
