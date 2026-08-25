@@ -103,15 +103,14 @@ Production Systems
 
 <p align="left">
 <a href="https://reactnative.dev/" target="_blank">
-<img src="https://reactnative.dev/img/header_logo.svg" width="55" height="55" alt="React Native" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React Native" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://expo.dev/" target="_blank">
-<img src="https://cdn.simpleicons.org/expo/ffffff" width="55" height="55" alt="Expo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="50" height="50" alt="Expo" />
 </a>
 </p>
 
-`React Native` · `Expo` · `EAS` · `Android` · `iOS`
 
 
 ### 🌐 Web
