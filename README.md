@@ -239,9 +239,13 @@ A modern mobile application built with React Native + Expo with authentication, 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=obaid1dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Obaid's GitHub Stats" />
+<a href="https://github.com/obaid1dev">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=obaid1dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Obaid's GitHub Stats" />
+</a>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=obaid1dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Obaid's Top Languages" />
+<a href="https://github.com/obaid1dev">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaid1dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Obaid's Top Languages" />
+</a>
 
 </div>
 
@@ -249,9 +253,12 @@ A modern mobile application built with React Native + Expo with authentication, 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=obaid1dev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true" height="180" alt="Obaid's GitHub Activity" />
+<a href="https://github.com/obaid1dev?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api?username=obaid1dev&show_icons=true&hide_border=true&theme=tokyonight&hide=issues&include_all_commits=true" alt="Obaid's GitHub Activity" />
+</a>
 
 </div>
+
 
 ---
 
