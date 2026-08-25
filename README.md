@@ -101,16 +101,18 @@ Production Systems
 
 ### 📱 Mobile
 
-React Native
-Expo
-Cross-platform Apps
-Mobile UX
+<p align="left">
+<a href="https://reactnative.dev/" target="_blank">
+<img src="https://reactnative.dev/img/header_logo.svg" width="55" height="55" alt="React Native" />
+</a>
+&nbsp;&nbsp;
+<a href="https://expo.dev/" target="_blank">
+<img src="https://cdn.simpleicons.org/expo/ffffff" width="55" height="55" alt="Expo" />
+</a>
+</p>
 
-</td>
+`React Native` · `Expo` · `EAS` · `Android` · `iOS`
 
-<td width="25%" align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="55"/>
 
 ### 🌐 Web
 
