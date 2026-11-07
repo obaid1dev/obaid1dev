@@ -397,8 +397,8 @@ Build → Ship → Learn → Repeat
 <img src="https://img.shields.io/badge/X-@obaiddev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 
-<a href="https://instagram.com/obaidd.dev">
-<img src="https://img.shields.io/badge/Instagram-@obaidd.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<a href="https://instagram.com/obaid.py">
+<img src="https://img.shields.io/badge/Instagram-@obaid.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 <a href="https://discord.gg/obaidd.dev">
